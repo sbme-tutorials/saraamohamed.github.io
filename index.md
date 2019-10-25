@@ -1,5 +1,5 @@
 ## Welcome to My Personal Websit
-![Image](hcc/my photo)
+![Image](my_photo/myphoto.jpeg)
 # My Resume
 ## Personal information
 * **Name**: Sara Mohamed Ali.
