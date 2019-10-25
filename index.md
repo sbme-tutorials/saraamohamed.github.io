@@ -1,5 +1,5 @@
 ## Welcome to My Personal Websit
-![Image](my_photo/myphoto.jpeg){ width=50% }
+![Image](my_photo/myphoto.jpeg| width=100)
 # My Resume
 ## Personal information
 * **Name**: Sara Mohamed Ali.
@@ -9,6 +9,7 @@
 * **Facebook**:[https://www.facebook.com/profile.php?id=10000206478212].
 
 * **Linkden**: [https://www.linkedin.com/in/sara-mohamed-a81653147/].
+* **Githup**:[https://github.com/saraamohamed]
 ## Education
 * 3rd year, System and Biomedical Engineering, Cairo  University 
 * Graduated from “Said Zaghloul Secondary School for Girls” with 98%
