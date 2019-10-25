@@ -1,4 +1,5 @@
 ## Welcome to My Personal Websit
+<img src="my_photo/myphoto.jpeg" width="48">
 ![Image](my_photo/myphoto.jpeg | width=100)
 # My Resume
 ## Personal information
