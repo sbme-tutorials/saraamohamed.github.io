@@ -26,7 +26,7 @@
 * Participant at Hult Prize 2018.
 * Worked at:   Al- Zahra Women Charitable Society( Party Planner)
 ## Skills
-### Personal skills: 
+## Personal skills: 
 * Detailed and organized, Developing Supplier Relationship
 * Presentation skills
 * Responsible
@@ -39,7 +39,7 @@
 *	Flexible
 *	Ability to accept constructive feedback
 
-### Technical skills: 
+## Technical skills: 
 * Languages: English, German.
 * Programing Language: C++, C, Python, and HTML.
 * Programs: Visual Studio, codeBlocks, Atmel studio, Proteus, Anaconda, MATLAB.
