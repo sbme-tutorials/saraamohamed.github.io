@@ -1,6 +1,5 @@
 ## Welcome to My Personal Websit
-<img src="my_photo/myphoto.jpeg" width="48">
-![Image](my_photo/myphoto.jpeg | width=100)
+<img src="my_photo/myphoto.jpeg" width="150">
 # My Resume
 ## Personal information
 * **Name**: Sara Mohamed Ali.
