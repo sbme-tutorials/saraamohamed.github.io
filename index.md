@@ -1,7 +1,7 @@
-##Welcome to My Personal Websit
+# Welcome to My Personal Websit
 [Image]()
-#My Resume
-##Personal information
+# My Resume
+## Personal information
 **Name**:Sara Mohamed Ali
 **E-mail**:sara.mohamed7991@gmail.com
 **Facebook**:[https://www.facebook.com/profile.php?id=10000206478212]
