@@ -6,9 +6,9 @@
 
 * **E-mail**: sara.mohamed7991@gmail.com.
 
-* **[Facebook]**(https://www.facebook.com/profile.php?id=10000206478212).
+* [**Facebook**](https://www.facebook.com/profile.php?id=10000206478212).
 
-* **[Linkden]**(https://www.linkedin.com/in/sara-mohamed-a81653147/).
+* [**Linkden**](https://www.linkedin.com/in/sara-mohamed-a81653147/).
 
 * [**Githup**](https://github.com/saraamohamed])
 
