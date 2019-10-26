@@ -12,8 +12,8 @@
 * **Githup**:[https://github.com/saraamohamed]
 
 ## Education
-* 3rd year, System and Biomedical Engineering, Cairo  University 
-* Graduated from “Said Zaghloul Secondary School for Girls” with 98%
+* 3rd year, System and Biomedical Engineering, Cairo  University.
+* Graduated from “Said Zaghloul Secondary School for Girls” with 98%.
 
 ## Courses:
 * Embedded system.
